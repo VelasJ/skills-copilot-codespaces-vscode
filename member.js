@@ -1,2 +1,3 @@
 function skillMember() {
-  return {
+  return }
+  
