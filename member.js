@@ -1,5 +1,6 @@
 function skillMember() {
-  return }
-
-
-  
+  return {
+    name: 'skillMember',
+    type: 'member',
+    value: 'skillMember'
+  };
